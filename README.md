@@ -3,14 +3,13 @@
 # 🎯 Smart Vision Technology Quality Control
 ### Flipkart GRID 6.0 Hackathon Solution
 
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/flipkart-grid-vision?style=social)](https://github.com/yourusername/flipkart-grid-vision/stargazers)
+[![GitHub stars](https://github.com/Siwanikarna/Flipkart-Grid-6.0)](https://github.com/Siwanikarna/Flipkart-Grid-6.0)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
 
 [View Demo](#{demo-link}) • [Report Bug](#{issues}) • [Request Feature](#{issues})
 
-![Project Banner](https://raw.githubusercontent.com/yourusername/flipkart-grid-vision/main/assets/banner.png)
 
 </div>
 
@@ -18,7 +17,7 @@
 
 <div align="center">
   
-https://github.com/yourusername/flipkart-grid-vision/assets/video.mp4
+https://github.com/Siwanikarna/Flipkart-Grid-6.0/assets/video.mp4
 
 *Smart Vision System in Action*
 </div>
