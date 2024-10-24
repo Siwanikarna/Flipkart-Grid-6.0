@@ -16,7 +16,7 @@
 
 <div align="center">
   
-https://github.com/Siwanikarna/Flipkart-Grid-6.0/assets/video.mp4
+https://github.com/Siwanikarna/Flipkart-Grid-6.0/blob/main/flipkart-simulation%20video.mp4
 
 *Smart Vision System in Action*
 </div>
