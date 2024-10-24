@@ -3,7 +3,6 @@
 # 🎯 Smart Vision Technology Quality Control
 ### Flipkart GRID 6.0 Hackathon Solution
 
-[![GitHub stars](https://github.com/Siwanikarna/Flipkart-Grid-6.0)](https://github.com/Siwanikarna/Flipkart-Grid-6.0)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
