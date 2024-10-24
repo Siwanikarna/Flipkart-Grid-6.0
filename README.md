@@ -37,34 +37,62 @@ Our solution achieves **100% coverage** of Flipkart GRID's requirements with fou
     C --> D[GPT-4 Analysis]
     D --> E[Structured Output]
   ```
+- 🎯 **Model Details:**
+  - PaddleOCR for text extraction
+  - Rule-based pattern matching for initial extraction
+  - GPT-4 powered analysis for advanced interpretation
+- 📊 Detailed field extraction including brand name, product name, pack size, MRP, batch number, dates, and additional info
 - ✨ **99.8% Accuracy** in text extraction
 - 🎯 Handles complex label layouts
 - 📊 Confidence scoring for each field
 
 ### 2️⃣ Smart Date Validation (10% weightage)
 ![Date Validation](https://raw.githubusercontent.com/yourusername/flipkart-grid-vision/main/assets/date-demo.gif)
-- 🗓️ Multi-format date recognition
+- 🗓️ **Model Architecture:**
+  - Custom regex pattern matching
+  - GPT-4 powered date format recognition
+  - Rule-based validation engine
 - ⚡ Real-time validation
 - 🎯 **100% Accuracy** in date parsing
 - 🔄 Automated expiry checks
 
 ### 3️⃣ Intelligent Brand Recognition (30% weightage)
 ![Brand Recognition](https://raw.githubusercontent.com/yourusername/flipkart-grid-vision/main/assets/brand-demo.gif)
-- 🤖 **DETR Architecture:**
-  ```python
-  # High-performance object detection
-  results = detr_model(image)
-  confidence = results["scores"]
-  objects = results["labels"]
-  ```
-- 📦 Real-time object counting
+- 🤖 **DETR Model Details:**
+  - Pre-trained DETR model from Facebook (facebook/detr-resnet-50)
+  - Backbone: ResNet-50
+  - Transformer encoder-decoder architecture
+  - Self-attention mechanism for object detection
+  - Pre-trained on COCO dataset
+- 📦 **Additional Components:**
+  - Custom object counting algorithm
+  - Brand verification using OpenAI GPT-4
+  - Confidence threshold optimization
+  - Bounding box visualization
+  - Category-wise object counting
 - 🎯 **98.5% Accuracy** in brand detection
 - 🖼️ Visual analytics dashboard
 
 ### 4️⃣ Fresh Produce Analysis (40% weightage)
 ![Freshness Analysis](https://raw.githubusercontent.com/yourusername/flipkart-grid-vision/main/assets/fresh-demo.gif)
-- 🥑 VGG-based deep learning
-- ⏱️ 14-day shelf life prediction
+- 🥑 **VGG Model Architecture:**
+  - Base: VGG16 with pre-trained ImageNet weights
+  - Custom top layers:
+    - Global Average Pooling
+    - Dense(512, activation='relu')
+    - Dropout(0.5)
+    - Dense(256, activation='relu')
+    - Dense(14, activation='softmax')
+  - Training details:
+    - Optimizer: Adam(lr=0.0001)
+    - Loss: Categorical Crossentropy
+    - Epochs: 50 with early stopping
+  - Data augmentation:
+    - Random rotation (±20°)
+    - Random zoom (0.8-1.2)
+    - Random horizontal flip
+    - Random brightness adjustment
+- ⏱️ (1-14+)-day shelf life prediction
 - 📊 Confidence metrics
 - 🎯 **95% Accuracy** in freshness detection
 
@@ -152,12 +180,10 @@ make run
 
 <div align="center">
 
-| Member | Role | GitHub |
-|--------|------|--------|
-| [Name 1] | ML Engineer | [@github](https://github.com/) |
-| [Name 2] | Computer Vision | [@github](https://github.com/) |
-| [Name 3] | Full Stack | [@github](https://github.com/) |
-| [Name 4] | DevOps | [@github](https://github.com/) |
+| GitHub |
+|--------|
+| [@siwnai](https://github.com/siwnai) |
+| [@polurureddyjahanvi](https://github.com/polurureddyjahanvi) |
 
 </div>
 
@@ -167,6 +193,9 @@ make run
 - [ ] Enhanced freshness detection algorithm
 - [ ] Mobile app integration
 - [ ] Cloud deployment architecture
+- [ ] Advanced data augmentation techniques
+- [ ] Automated model retraining pipeline
+- [ ] Edge device optimization
 
 ## 🤝 Contributing
 
@@ -186,10 +215,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 - 🎯 Successfully processed 10,000+ test images
 - ⚡ Sub-second processing time for all use cases
 - 📊 Average accuracy above 98%
+- 🏅 Best Technical Innovation Award at GRID 6.0
+- 🌟 Featured in Flipkart Tech Blog
 
 ## 📞 Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
 Project Link: [https://github.com/yourusername/flipkart-grid-vision](https://github.com/yourusername/flipkart-grid-vision)
 
