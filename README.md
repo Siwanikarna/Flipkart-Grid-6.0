@@ -182,8 +182,8 @@ make run
 
 | GitHub |
 |--------|
-| [@siwnai](https://github.com/siwnai) |
-| [@polurureddyjahanvi](https://github.com/polurureddyjahanvi) |
+| [@Siwnai karna](https://github.com/Siwanikarna) |
+| [@Poluru Reddy Jahanve](https://github.com/Jahnu36) |
 
 </div>
 
@@ -220,7 +220,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📞 Contact
 
-Project Link: [https://github.com/yourusername/flipkart-grid-vision](https://github.com/yourusername/flipkart-grid-vision)
+Project Link: [https://github.com/Siwanikarna/Flipkart-Grid-6.0](https://github.com/Siwanikarna/Flipkart-Grid-6.0)
 
 ---
 <div align="center">
