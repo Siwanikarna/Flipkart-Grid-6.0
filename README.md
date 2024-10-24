@@ -116,7 +116,7 @@ streamlit run usecase4.py
 - **Output:** 14 shelf life categories
 
 ## 🎥 Demo
-[Add demo video link here]
+https://www.canva.com/design/DAGUIXRkrsg/TKv1qNO5eERNz-3yfcg3iw/edit?utm_content=DAGUIXRkrsg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## 📝 Project Structure
 ```
