@@ -130,16 +130,11 @@ streamlit run usecase4.py
 ```
 
 ## 👥 Team Members
-- [Member 1]
-- [Member 2]
-- [Member 3]
-- [Member 4]
+- Siwani Karna
+- Poluru Reddy Jahanve
 
 ## 🤝 Contributing
 Feel free to submit issues and enhancement requests!
-
-## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 - Flipkart GRID 6.0 for organizing this hackathon
